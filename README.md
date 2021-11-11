@@ -1,5 +1,5 @@
 # NFT
-This GitHub repository is powered by blockchain! Pay me $500000 and I'll let you sign your name into the Readme!
+THIS GITHUB REPOSITORY IS POWERED BY BLOCKCHAIN!!! PAY ME $500000 AND I WILL LET YOU SIGN YOUR NAME ON THE README!!! 
 
 ## Names
 - Alex "Archcannon" Chen (signed 2021-11-11, 2:21 AM PST)
